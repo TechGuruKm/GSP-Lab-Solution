@@ -1,6 +1,6 @@
 # A Tour of Google Cloud Hands-on Labs || [GSP282](https://www.cloudskillsboost.google/focuses/2794?parent=catalog) ||
 
-## 🔑 Solution [here](https://youtu.be/)
+## 🔑 Solution [here](https://youtu.be/5VZCXNC2Rl0?si=TjX4rYLveC73Sdnp)
 
 ### ⚙️ Execute the Following Commands in Cloud Shell
 
