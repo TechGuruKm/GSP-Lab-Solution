@@ -33,8 +33,10 @@ sudo chmod +x arcadecrew.sh
 
 ---
 
-### 🤝 Join the Community!
+### 💬 Stay Connected with Our Community!
 
-## 🔑 Solution [here](https://youtu.be/5VZCXNC2Rl0?si=TjX4rYLveC73Sdnp)
+👉 Join the conversation and never miss an update:
+
+# [GCP LAB_SOLUTION](https://www.youtube.com/@techgurukm)
 
 ---
