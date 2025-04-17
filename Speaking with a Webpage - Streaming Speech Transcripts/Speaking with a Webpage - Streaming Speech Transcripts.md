@@ -2,10 +2,7 @@
 # 🌐 [Speaking with a Webpage - Streaming Speech Transcripts || GSP125](https://www.cloudskillsboost.google/focuses/676?parent=catalog)
 
 --- 
-
-🎥 Watch the full video walkthrough for this lab:  
-[![YouTube Solution](https://img.shields.io/badge/YouTube-Watch%20Solution-red?style=flat&logo=youtube)](https://youtu.be/gSdLbD5ncwM)
-
+## 🔑 Solution [here](https://youtu.be/5VZCXNC2Rl0?si=TjX4rYLveC73Sdnp)
 ---
 ## ⚠️ **Important Note:**
 This guide is provided to support your educational journey in this lab. Please open and review each step of the script to gain full understanding. Be sure to follow the terms of Qwiklabs and YouTube’s guidelines as you proceed.
@@ -38,8 +35,6 @@ sudo chmod +x arcadecrew.sh
 
 ### 🤝 Join the Community!
 
-- [Whatsapp](https://chat.whatsapp.com/KkNEauOhBQXHdVcmqIlv9F)  
-
-[![Arcade Crew Channel](https://img.shields.io/badge/YouTube-Arcade%20Crew-red?style=flat&logo=youtube)](https://www.youtube.com/@Arcade61432?sub_confirmation=1)
+## 🔑 Solution [here](https://youtu.be/5VZCXNC2Rl0?si=TjX4rYLveC73Sdnp)
 
 ---
