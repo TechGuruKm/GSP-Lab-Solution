@@ -4,9 +4,7 @@
 
 ### ⚙️ Execute the Following Commands in Cloud Shell
 
-```
-export USER_2=
-```
+
 ```
 curl -LO raw.githubusercontent.com/TechGuruKm/GSP-LAB-Solution/main/Cloud%20Monitoring%20Qwik%20Start/gsp089.sh
 
