@@ -8,11 +8,11 @@
 export USER_2=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/refs/heads/main/A%20Tour%20of%20Google%20Cloud%20Hands-on%20Labs/gsp282.sh
+curl -LO raw.githubusercontent.com/TechGuruKm/GSP-LAB-Solution/main/Cloud%20Monitoring%20Qwik%20Start/gsp089.sh
 
-sudo chmod +x *.sh
+sudo chmod +x gsp089.sh
 
-./*.sh
+./gsp089.sh
 ```
 # 🎉 Congratulations 🎉 
 
