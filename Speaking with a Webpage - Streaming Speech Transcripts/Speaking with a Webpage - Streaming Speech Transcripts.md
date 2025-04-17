@@ -14,18 +14,18 @@ This guide is provided to support your educational journey in this lab. Please o
 Run in Cloudshell:  
 
 ```bash
-curl -LO raw.githubusercontent.com/ArcadeCrew/Google-Cloud-Labs/refs/heads/main/Speaking%20with%20a%20Webpage%20-%20Streaming%20Speech%20Transcripts/arcadecrew1.sh
+curl -LO raw.githubusercontent.com/TechGuruKm/GSP-Lab-Solution/refs/heads/main/Speaking%20with%20a%20Webpage%20-%20Streaming%20Speech%20Transcripts/gsp125-1.sh
 
-sudo chmod +x arcadecrew1.sh
+sudo chmod +x gsp125-1.sh
 
-./arcadecrew1.sh
+./gsp125-1.sh
 ```
 ```bash
-curl -LO raw.githubusercontent.com/ArcadeCrew/Google-Cloud-Labs/refs/heads/main/Speaking%20with%20a%20Webpage%20-%20Streaming%20Speech%20Transcripts/arcadecrew.sh
+curl -LO raw.githubusercontent.com/TechGuruKm/GSP-Lab-Solution/refs/heads/main/Speaking%20with%20a%20Webpage%20-%20Streaming%20Speech%20Transcripts/gsp125.sh
 
-sudo chmod +x arcadecrew.sh
+sudo chmod +x gsp125.sh
 
-./arcadecrew.sh
+./gsp125.sh
 ```
 ---
 
