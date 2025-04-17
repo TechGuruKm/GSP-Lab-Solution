@@ -21,4 +21,4 @@ You've successfully completed the lab. **Way to go!** 🚀
 
 👉 Join the conversation and never miss an update:
 
-# [QUICK GCP LAB](https://www.youtube.com/@techgurukm)
+# [GCP LAB SOLUTION](https://www.youtube.com/@techgurukm)
