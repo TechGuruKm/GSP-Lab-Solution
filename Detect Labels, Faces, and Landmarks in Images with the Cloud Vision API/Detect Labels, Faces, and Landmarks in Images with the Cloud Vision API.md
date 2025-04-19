@@ -18,4 +18,4 @@ sudo chmod +x gsp037.sh
 
 #### *Well done!*
 
-# [GCP LAB Solutiion](https://www.youtube.com/@techgurukm)
+# [GCP LAB Solution](https://www.youtube.com/@techgurukm)
