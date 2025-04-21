@@ -7,11 +7,11 @@
 
 
 ```
-curl -LO raw.githubusercontent.com/TechGuruKm/GSP-Lab-Solution/refs/heads/main/Dataflow%3A%20Qwik%20Start%20-%20Templates/gsp192.sh
+curl -LO raw.githubusercontent.com/TechGuruKm/GSP-Lab-Solution/refs/heads/main/Web%20Security%20Scanner%3A%20Qwik%20Start/gsp112.sh
 
-sudo chmod +x gsp192.sh
+sudo chmod +x gsp112.sh
 
-./gsp192.sh
+./gsp112.sh
 ```
 
 
