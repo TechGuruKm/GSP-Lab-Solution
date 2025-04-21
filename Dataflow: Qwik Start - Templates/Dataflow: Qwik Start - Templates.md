@@ -9,11 +9,11 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/TechGuruKm/GSP-Lab-Solution/refs/heads/main/Classify%20Images%20of%20Clouds%20in%20the%20Cloud%20with%20AutoML%20Images/gsp223.sh
+curl -LO raw.githubusercontent.com/TechGuruKm/GSP-Lab-Solution/refs/heads/main/Dataflow%3A%20Qwik%20Start%20-%20Templates/gsp192.sh
 
-sudo chmod +x gsp223.sh
+sudo chmod +x gsp192.sh
 
-./gsp223.sh
+./gsp192.sh
 ```
 
 
